@@ -17,4 +17,10 @@ resource_name = {
     owner    = "Ajay"
     env      = "BANKENED"
   }
+    rg3 = {
+    name     = "Banckend-dev_VM4"
+    location = "West US"
+    owner    = "Ajay"
+    env      = "BANKENED"
+  }
 }
