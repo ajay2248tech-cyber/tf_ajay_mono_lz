@@ -17,4 +17,11 @@ resource_name = {
     owner    = "Ajay"
     env      = "BANKENED"
   }
+  # adding this resource group is for bastian
+    rg4 = {
+    name     = "Bastian-dev_VM"
+    location = "West US"
+    owner    = "Ajay"
+    env      = "BANKENED"
+  }
 }
