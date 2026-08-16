@@ -17,4 +17,10 @@ resource_name = {
     owner    = "Ajay"
     env      = "BANKENED"
   }
+    rg4 = {
+    name     = "Bastian-dev_VM"
+    location = "West US"
+    owner    = "Ajay"
+    env      = "BANKENED"
+  }
 }
